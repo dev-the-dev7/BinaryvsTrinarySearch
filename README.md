@@ -1,1 +1,1 @@
-# BinaryvsTrinarySearch
+# binary-vs-trinary-search
